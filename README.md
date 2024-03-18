@@ -29,3 +29,5 @@ INSERT INTO students (first_name, last_name, email, enrollment_date) VALUES
 The execution of each function in your application. For INSERT, UPDATE, and DELETE operations, demonstrate their effects in your database using pgAdmin. 
 
 
+Video: https://www.loom.com/share/4ac23d67ec5941709f697b457b63f80e?sid=384220bf-6482-4631-be59-b665ba005b58 
+Backup location: https://drive.google.com/file/d/14WV84JBMNa3gAyedVvoit8fmLo1bDFjz/view?usp=sharing 
